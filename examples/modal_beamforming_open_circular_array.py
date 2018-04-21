@@ -1,5 +1,5 @@
 """
-    Compute the plane wave decomposition for an incident broadband plane wave
+    Compute1 the plane wave decomposition for an incident broadband plane wave
     on an open circular array using a modal beamformer of finite order.
 """
 
